@@ -35,6 +35,7 @@ ________________________________________________________________________________
 ## **Recourses** 💡
 
 [Katherine Y : Github](https://github.com/katherineyoguez/BookSearchEngine)
-[Heroku : Live App](https://booksearchengine00.herokuapp.com/)
+
+[Heroku : Live App](https://boiling-cliffs-03293.herokuapp.com/)
 
 ____________________________________________________________________________________________________________________
