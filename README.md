@@ -24,8 +24,8 @@ ________________________________________________________________________________
 ## **Website** 📷
 
 
-![Screenshot 1](assets/Screenshot2.png)
-![Screenshot 1](assets/Screenshot4.png)
+![Screenshot 1](img/Screenshot1.png)
+![Screenshot 1](img/Screenshot2.png)
 
 
 
